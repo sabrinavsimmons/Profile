@@ -1,7 +1,13 @@
-# Hi, I’m Sabrina 💜✨ — aka **Cyb3rWitchX** 🪄🖤  
-**Cybersecurity Student | SOC Analyst in Training**
+# Hi, I’m Sabrina V. Simmons
 
-I cast my skills into the digital realm detecting threats, defending networks, and learning the art of cyber magic. My journey blends technical skill with creativity, from building a home cybersecurity lab to simulating real-world attacks and defenses.  
+Cybersecurity and Computer Science student with a focus on defensive security, networking, and security operations. I build and maintain a hands-on home lab to simulate real-world attacks and defenses, analyze logs and network traffic, and strengthen detection and incident response skills.
+
+## Areas of Focus
+- Security operations (SOC fundamentals)
+- Network security and firewall configuration
+- Log analysis and threat detection
+- Windows and Linux system monitoring
+- Home lab design and troubleshooting
 ---
 
 ## 📜 Certifications
