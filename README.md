@@ -1,5 +1,16 @@
 # Hi, I'm Sabrina V. Simmons
+
 Cybersecurity and Computer Science student with a focus on defensive security, networking, and security operations.
+
+## 🎓 Education
+
+**Southern New Hampshire University**
+- Associate of Science in Cybersecurity, Fall 2025
+  - GPA: 4.0
+  - President's List & Honor Roll
+- Bachelor of Science in Computer Science (In Progress, Expected December 2026)
+
+---
 
 ## Areas of Focus
 - Security operations (SOC fundamentals)
